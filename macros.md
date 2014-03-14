@@ -9,4 +9,6 @@ Macros For Roll20
 
 [[d20+@{Base Attack Bonus} +@{Strength} +@{Morning Star} +?{Modifier|0}]] vs AC for [[@{Melee Damage} +@{Strength} ]] damage
 
+2) @{selected|token_name} strikes at the nasty adventurers
 
+[[d20+@{Melee 1}  ]] vs AC for [[@{Melee 1|max}]] damage.
